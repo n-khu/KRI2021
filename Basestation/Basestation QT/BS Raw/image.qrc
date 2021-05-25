@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="Field">lapangan-sepak-bola.png</file>
+        <file alias="Logo">lambang-robotika.png</file>
+        <file alias="GK_POS">gk.png</file>
+        <file alias="ST2_POS">st2.png</file>
+        <file alias="ST3_POS">st3.png</file>
+        <file alias="GK">output-onlinepngtools.png</file>
+        <file alias="ST2">output-onlinepngtools (1).png</file>
+        <file alias="ST3">output-onlinepngtools (2).png</file>
+    </qresource>
+</RCC>
