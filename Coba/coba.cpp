@@ -1,0 +1,1 @@
+//tesgit config --list --show-origin
